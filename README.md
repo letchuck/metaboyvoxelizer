@@ -18,7 +18,7 @@ The goal of this repo is to provide transparency to the users of the voxelizer.
 2. Download the MetaBoyVoxelizerUnityPackage.unitypackage from the file and import it as a custom package into your unity project.
 3. Ensure your project platform is set to WebGL (File > Build Settings).
 4. Add the App_Visualizer_Prod scene to your build settings.
-5. Build and Run, the demo shows the first 8 characters of your L2 API key so you can verify it is correct.
+5. Build and Run
 
 Because no ready made assets are provided at this time, you will be able to view the UI and it will be able to identify all your NFTs, but they won't be visible on the screen.
 
