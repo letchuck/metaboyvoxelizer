@@ -42,3 +42,5 @@ This project is licensed under the GPLv3 License.
 This project utilizes the [LoopringUnity](https://github.com/LoopMonsters/LoopringUnity) API integration to utilize wallet functions.
 
 This project utilizes the [SkeletonSkin](https://github.com/DMeville/SkeletonSkin) component to attach meshes to the same skeleton.
+
+This project utilizes the [NaughtyAttributes](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996) library to make our lives way easier.
