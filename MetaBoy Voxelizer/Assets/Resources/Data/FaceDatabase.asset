@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab8e76ea0ba520449561754e7eb35a5, type: 3}
+  m_Name: FaceDatabase
+  m_EditorClassIdentifier: 
+  AvailableFaces:
+  - FaceName: 6_6
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 0e4802bfb44d8254fa4ab5cfc7f7f961, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: 404
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: e8f3d4abef9cf2741a2c9c604335ccde, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: ANGEL SMILE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 19520a1b8f624a449a666a88c00bd8f9, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: ANGRY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: dfca1d4d7114fe14792dd776fde12c7b, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: BEARDED COWBOY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 607c99fb57327e14f80d3be06e822cb7, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: BIG CHIN
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: d314090c9ff4449428da37c5d3bee96d, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: BIG MOUSTASHE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 8a4ddce53f69752429cae19bc964508b, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: BIG TEETH
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: efb81d71e8469a44798be5702d2dffd4, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: CAT
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 70cbb72023244e544a6cb2aa51014ae0, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: HAPPY CLOWN
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 52cd1b81f2adc4b43affb5e53ce7fd00, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: CONFUSED
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: ed65873f08fbe5741a6fc5e48f6d952c, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: CRAZY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 7e0ff8dffa4f1aa4697378b4fc3a48a4, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: CRYING
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 6efe418d512dd0540a0de590b39db1aa, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: CYCLOPS
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 8a3a2311e364a16469aeba8ceddcc7f8, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: DEMON
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: c2206d8ed4b237b409d7f5050b1bba4c, type: 3}
+    WhiteFaceTexture: {fileID: 2800000, guid: fd11e598eb2561f40a0f2d0de23e4575, type: 3}
+  - FaceName: DOG
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: d39f4762919dfcc43943c21881edfff4, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: DOUBLE CHIN
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 35b72e1214e9b5940b95ba9e29065437, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: DUMB LAUGH
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: f9fc72a91ce5e0449b329b277a3d1b1b, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: EMPTY FACE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: dcfc9ca6da975de4fbafa3d2e04a284e, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: FEMALE VILLAIN
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: e777028a579b7fb418aa89a5b819339f, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: FURIOUS
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 3f5a8b047363bf941b195b16e1db1785, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: GALAXY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 5ce448ce6d079f042b45a83429e00d30, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: GLASSES
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: ba0af1e729a14764d965efcb3bae6589, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: GOATEE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: a3e752adbf21d2a4dbbe2f1d531de6bb, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: GOT YOU
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 77eda3f2ded9629448f73079b0c20c0c, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: GRINDING TEETH
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: d752b0faccd31514fa13503a43c9be20, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: HANDSOME FACE
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 0ef6e94c8f4bb7641b487146f0daa020, type: 3}
+    WhiteFaceTexture: {fileID: 2800000, guid: 004fd0975e24fb4419a8557237a296ee, type: 3}
+  - FaceName: HAPPY BOY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 9f5076fd56f680240b9e64e199ed8a12, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: HAPPY GIRL
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: d55513d2e5f792a41b50981a94cf2131, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: HITMAN
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: f74680134f086b946af3b251aa95d69c, type: 3}
+    WhiteFaceTexture: {fileID: 2800000, guid: 3ddd9720c10f9aa46af2546d357ca721, type: 3}
+  - FaceName: HOLDING A LAUGH
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 35fc4ed91ae9a8441a82e13c86c90a9c, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: HUGE SMILE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: f7ac72409ab7bab4caffe96a69ec90e1, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: LOUD CRYING
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 80d09b0aef6d44d4da0b3df10822b4b0, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: MONOCLE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 873044ca206270843b87bf405448ad96, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: MONSTER
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: f06c8d3123c400d4f9f5e5fac761c381, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: MUSTASHE HIPSTER
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: c8b67d8d21a97a446a504271e877c68d, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: NEON
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 36abf267af8132642b512970c4bd6ed3, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: OOO
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: d368b060cc078724896d614679ab05b4, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: PIG
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: f2ed2995a8e31ba4a90b24bbc8192e19, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: ROSY CHEEKS
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: b5b41b6ba18ab7d44ae50e274caa97ab, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SAD
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 33fc15d5ad34f1347b704bb7de1ad0e3, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SAD ZOMBIE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 80627e26f14568c45a0594c55a649f66, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SCARY CLOWN
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: e5b3602a57e8cc8468849cfa24f4c407, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SEDUCING
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 9cb6fbc551e3b064fb78c97c4eef1b04, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SERIOUS
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 270053a2964ab7b4eb492a4e836ab88c, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SKULL
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: e9e8cde1a2f669d439a4367ac31b8042, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SMILING SKULL
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 458651d919c02294dbf92e9eb13f84e2, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SMILING ZOMBIE
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 97f449c06328ca34a8fc13cc32a2a03c, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SNOBBY KID
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: b8b446f4233e0a942939b40777d24329, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SUPER ANGRY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 0c295fed6bb30b34b9370c3306a96df7, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SURPRISED
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: e178be1f44ecf074c8fabb58764bf400, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: SWEET
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 4ea6e9a87d9b5684aadc5923475062b7, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: TEETH SMILE
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 55857fcd79037a4428c7559c8bbca24e, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: TONGUE OUT
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: d03f7876d3674fe438dec5bf8af357ed, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: UNIBROW BANDIT
+    MaterialOverride: {fileID: 2100000, guid: bcb97a24a7656d840a068092714b48b4, type: 2}
+    FaceTexture: {fileID: 2800000, guid: 9831897b661d53b4288461de391cc80e, type: 3}
+    WhiteFaceTexture: {fileID: 2800000, guid: a194c2e97bbbdb3458b70de13851e8f7, type: 3}
+  - FaceName: VIPER
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: bffc34c42932c5a43b386f96850b9d91, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: WHATEVER
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: 73658a1f9a537184cab030dc746132d6, type: 3}
+    WhiteFaceTexture: {fileID: 0}
+  - FaceName: METABOY
+    MaterialOverride: {fileID: 0}
+    FaceTexture: {fileID: 2800000, guid: f6f74f55d09acff4598207562f3dd893, type: 3}
+    WhiteFaceTexture: {fileID: 0}
